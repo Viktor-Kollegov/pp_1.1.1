@@ -7,8 +7,6 @@
 .idea/
 *.iml
 *.iws
-.src/
-Main.java
 
 # Mac
 .DS_Store
